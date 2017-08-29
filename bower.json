@@ -16,6 +16,10 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "^3.3.7"
+    "imagehover.css": "*",
+    "lightbox2": "^2.9.0",
+    "slick-carousel": "^1.6.0",
+    "sass-flex-mixin": "^1.0.3",
+    "wow": "^1.1.2"
   }
 }
