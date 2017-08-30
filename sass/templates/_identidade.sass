@@ -1,0 +1,66 @@
+@import atoms/linksbower
+
+section#identidade
+	background: #f2efea
+	
+	.video-identidade
+		+flexbox
+		+justify-content(center)
+		margin-bottom: 30px
+		img
+			max-width: 570px
+			max-hegiht: 317px
+			width: 100%
+			height: 100%
+
+	.descricao-identidade
+		margin: 0 auto 30px
+		text-align: center;
+		max-width: 600px;
+
+	.tabela-identidade-preco
+		> ul
+			+clearfix
+			+make-row
+			> li
+				+make-sm-column(3)
+				+make-xs-column(6)
+				text-align: center;
+				> ul
+					background: #ede5e3
+					margin-bottom: 30px
+					li
+						margin: 10px 0
+					li > [class^="plano-"]
+						width: 100%
+						padding: 20px 15px
+						margin: 0
+						color: $branco
+						display: table
+
+						&.plano-basico
+							background:
+								image: url('../images/planos/bg-basico.png')
+								position: top center
+								repeat: no-repeat
+								size: 100%
+	/* .tabela-identidade-preco
+		+flexbox
+		// +flex-direction(column)
+		+flex-wrap(wrap)
+		+align-items(flex-start)
+		> ul
+			+flexbox
+			+flex-direction(column)
+			+align-items(center)
+			+make-sm-column(3)
+			+breakpoint($tablet)
+				+make-sm-column(4)
+			box-sizing: border-box
+			margin: 0 15px 15px
+			padding: 20px 15px
+			background: #ede5e3
+			li
+				padding: 0
+				margin: 0
+				text-align: center */
