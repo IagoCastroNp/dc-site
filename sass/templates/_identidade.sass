@@ -37,32 +37,16 @@ section#identidade
 					margin: 0 0 30px 0
 					&.plano-basico
 						background:
-							image: url('../images/planos/bg-basico.png')
-						button
-							background: #66d7d1
+							image: url('../images/identidade/bg-basico.png')
 					&.plano-profissional
 						background:
-							image: url('../images/planos/bg-profissional.png')
-						button
-							background: #cccc66
+							image: url('../images/identidade/bg-profissional.png')
 					&.plano-business
 						background:
-							image: url('../images/planos/bg-business.png')
-						button
-							background: #ff9933
+							image: url('../images/identidade/bg-business.png')
 					&.plano-personalizado
 						background:
-							image: url('../images/planos/bg-personalizado.png')
-						button
-							background: #333333
-					button
-						border: none
-						display: table
-						width: 100%
-						padding: 10px 0
-						color: $branco
-					button:hover
-						background: $arsenic
+							image: url('../images/identidade/bg-personalizado.png')					
 					li:first-child
 						position: relative
 						top: -10px
@@ -144,3 +128,8 @@ section#identidade
 				padding: 5px 10px
 			tr.dif
 				background: #d7d4d0
+		tfoot
+			text-align: center
+			display: none
+			+breakpoint($celular)
+				display: table-footer-group
