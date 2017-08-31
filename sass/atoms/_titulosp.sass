@@ -11,21 +11,28 @@
 
 	&:before, 
 	&:after 
-		position: relative;
-		font-size: 80px;
+		position: relative
+		+font-size(95pt)
+		+breakpoint($celular)
+			+font-size(60pt)
 
 	&:before
-		content: '\2CD0';
+		content: '\2CD0'
 		top: 5px
 		left: 0px
 
 	&:after
-		content: '\2C84';
-		top: -7px;
-		left: 0px;
-		-moz-transform: scaleX(-1);
-		-o-transform: scaleX(-1);
-		-webkit-transform: scaleX(-1);
-		transform: scaleX(-1);
-		filter: FlipH;
-		-ms-filter: "FlipH";
+		content: '\2C84'
+		top: -7px
+		left: 0px
+		-moz-transform: scaleX(-1)
+		-o-transform: scaleX(-1)
+		-webkit-transform: scaleX(-1)
+		transform: scaleX(-1)
+		filter: FlipH
+		-ms-filter: "FlipH"
+#destaques
+	.titulop
+		color: $branco
+		+breakpoint($celular)
+			+font-size(28pt)
