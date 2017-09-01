@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 'use strict';
 
+=======
+>>>>>>> html
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var watch = require('gulp-watch');
 
+<<<<<<< HEAD
 // task sass
 gulp.task('sass', function () {
     return gulp.src('./sass/**/*.sass')
@@ -14,6 +18,18 @@ gulp.task('sass', function () {
 // task watch
 gulp.task('watch', function () {
     gulp.watch('sass/**/*.sass', ['sass']);
+=======
+// task para o sass
+gulp.task('sass', function() {
+    return gulp.src('sass/**/*.sass')
+        .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+        .pipe(gulp.dest('css'));
+});
+
+// task para watch
+gulp.task('watch', function(){
+	gulp.watch('sass/**/*.sass', ['sass']);
+>>>>>>> html
 });
 
 // task default gulp

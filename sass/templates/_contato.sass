@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header
 	min-height: 335px
 	margin: 0 0 25px
@@ -18,15 +19,34 @@ header
 		+make-sm-column(8)
 		+make-sm-column-offset(2)
 
+=======
+section#contato
+	background:
+		image: url('../images/bg-contato.png')
+		position: bottom center
+		repeat: no-repeat
+		color: $preto
+		attachment: fixed
+		size: cover
+	form
+		padding-bottom: 30px
+		+clearfix
+		+make-sm-column(8)
+		+make-sm-column-offset(2)
+>>>>>>> html
 		.cols
 			+make-row
 		.col
 			+make-sm-column(6)
+<<<<<<< HEAD
 
+=======
+>>>>>>> html
 		input,
 		select,
 		textarea
 			width: 100%
+<<<<<<< HEAD
 			border: 2px solid $cinza-claro
 			padding: 7px
 			text-transform: uppercase
@@ -51,3 +71,34 @@ header
 			padding: 7px
 
 
+=======
+			padding: 9px
+			background: rgba(255,255,255,.4)
+			color: $branco
+			border-color: transparent
+		.icon-select
+			background: 
+				image: url(../images/contato/icon-select.png)
+				repeat: no-repeat
+				position: center right 9px
+				color: rgba(255,255,255,.4)
+				size: 20px 20px
+			select
+				background: transparent
+				-webkit-appearance: none
+				-moz-appearance:    none
+				appearance:         none
+				option
+					background: #999999
+		input[value="Pedir Desconto"]
+			text-align: center
+			font-weight: $regular
+		::-webkit-input-placeholder
+		   color: $branco
+		:-moz-placeholder
+		   color: $branco
+		::-moz-placeholder
+		   color: $branco
+		:-ms-input-placeholder  
+		   color: $branco
+>>>>>>> html

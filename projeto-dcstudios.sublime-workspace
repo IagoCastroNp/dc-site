@@ -1,0 +1,570 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"table",
+				"table-footer-group"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"outline",
+				"outline-style"
+			],
+			[
+				"img",
+				"img\tImage - Placeholder"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 18920,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/templates/_contato.sass",
+			"settings":
+			{
+				"buffer_size": 747,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 251.0,
+		"last_filter": "plache",
+		"selected_items":
+		[
+			[
+				"plache",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"table",
+				"Snippet: table - Placeholder"
+			],
+			[
+				"place",
+				"Snippet: ul - Placeholder"
+			],
+			[
+				"lorem p",
+				"Snippet: lorem - Short paragraph"
+			],
+			[
+				"border",
+				"Snippet: CSS - box-sizing: border-box;"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"placeholder",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"Snippet: tab",
+				"Snippet: <table>"
+			],
+			[
+				"Snippet: form",
+				"Snippet: <form>"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/dcsite",
+		"/C/wamp/www/dcsite/css",
+		"/C/wamp/www/dcsite/sass",
+		"/C/wamp/www/dcsite/sass/atoms",
+		"/C/wamp/www/dcsite/sass/molecules",
+		"/C/wamp/www/dcsite/sass/organisms",
+		"/C/wamp/www/dcsite/sass/templates"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/dcsite/sass/molecules/_botoes.sass",
+		"/C/wamp/www/dcsite/sass/atoms/_botao.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/molecules/_mixins.sass",
+		"/C/wamp/www/dcsite/sass/templates/_ilustracao.sass",
+		"/C/wamp/www/dcsite/css/geral.css",
+		"/C/wamp/www/dcsite/sass/templates/_home.sass",
+		"/C/wamp/www/dcsite/sass/atoms/_titulosp.sass",
+		"/C/wamp/www/dcsite/sass/organisms/_header.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/organisms/_header.sass",
+		"/C/wamp/www/dcsite/sass/templates/_workana.sass",
+		"/C/wamp/www/dcsite/sass/templates/_destaques.sass",
+		"/C/wamp/www/dcsite/sass/molecules/_mixins.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/organisms/_sobre.sass",
+		"/C/wamp/www/dcsite/sass/templates/_producaov.sass",
+		"/C/wamp/www/dcsite/sass/templates/_identidade.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/molecules/_botoes.sass",
+		"/C/wamp/www/dcsite/sass/organisms/_footer.sass",
+		"/C/wamp/www/dcsite/sass/home.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/atoms/_botao.sass",
+		"/C/wamp/www/dcsite/sass/geral.sass",
+		"/C/wamp/www/dcsite/sass/plugins.sass",
+		"/C/wamp/www/dcsite/bower_components/sass-flex-mixin/_flex.scss",
+		"/C/wamp/www/dcsite/sass/teste.sass",
+		"/C/wamp/www/dcsite/sass/molecules/_reset.sass",
+		"/C/wamp/www/dcsite/sass/atoms/_linksbower.sass",
+		"/C/wamp/www/dcsite/sass/atoms/_titulosh1.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/home.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/portfolio.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/geral.sass",
+		"/C/wamp/www/dcsite/gulpfile.js",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/templates/_home.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/molecules/_textos.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/organisms/_habilidades.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/templates/_sobre.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/sobre.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/plugins.sass",
+		"/C/wamp/www/dcstudios/criando-um-site-responsivo-do-comeco-ao-fim/sass/organisms/_footer.sass",
+		"/C/wamp/www/dcsite/css/contato.css",
+		"/C/wamp/www/dcsite/teste.php",
+		"/C/wamp/www/dcsite/css/home.css",
+		"/C/wamp/www/dcsite/.gitignore"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transition",
+			"ff9933",
+			"9",
+			"rubi",
+			"plano",
+			"identidade",
+			"\nbutton.acafrao\n\tbackground: #ff9933\n\tcolor: $branco",
+			"cccc66",
+			"6",
+			",\n\t\t\t\tth:nth-child(3)",
+			"padding",
+			"666666",
+			")\n",
+			"make",
+			"teste",
+			"botao",
+			"/>\n",
+			"c1c",
+			"1c1",
+			"19C2E",
+			"li>\n\t\t\t\t\t\t\t\t\t<i class=\"fa fa-youtube\"></i>\n\t\t\t\t\t\t\t\t</li>",
+			"+flexbox\n\t\t+align-item(center)\n\t\t+justify-content(space-around)",
+			"comment",
+			"commit",
+			"ited",
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17320,
+								17320
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										17319,
+										17320
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										17317,
+										17318
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/templates/_contato.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base16-monokai.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projeto-dcstudios.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
